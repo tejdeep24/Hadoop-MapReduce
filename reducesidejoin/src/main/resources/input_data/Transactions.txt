@@ -1,0 +1,32 @@
+101,06-02-2016 16:19:23,1001,book,hadoop in practice,500,5,srinagar,JK,creditcard
+102,08-01-2015 04:10:20,1002,games,NFS most wanted,800,4,haryana,HP,debitcard
+103,02-02-2016 26:14:21,1003,book,hadoop in action,600,6,delhi,delhi,creditcard
+104,23-01-2015 24:11:22,1004,book,hadoop definiative guide,900,4,ghaziabad,UP,debitcard
+105,25-02-2016 16:11:26,1005,electronics,laptop,100,5,srinagar,JK,creditcard
+106,22-01-2015 24:19:28,1003,cosmetics,park avanue deo,500,1,kasoli,HP,debitcard
+107,23-02-2016 26:15:23,1005,games,prince of persia,300,5,haridwar,UK,creditcard
+108,28-01-2015 14:14:20,1002,cosmetics,Biotique beer shampoo,80,4,udalmpet,chennai,debitcard
+109,26-02-2016 13:18:23,1001,book,hadoop in practice,50,2,manmad,pune,creditcard
+110,25-01-2015 14:14:24,1003,games,NFS most wanted,18,3,patna,bihar,debitcard
+111,20-02-2016 12:15:23,1005,electronics,mouse,500,5,varanasi,up,creditcard
+112,21-01-2015 11:12:27,1002,apparels,kurtis,80,7,chtrakoot,MP,debitcard
+113,16-02-2016 06:11:28,1003,book,hadoop definiative guide,500,5,ujjain,MP,creditcard
+114,27-01-2015 04:19:29,1004,games,project IGI,8,8,katra,jammu,debitcard
+115,12-02-2016 05:18:22,1005,book,hadoop in action,50,5,kisanganj,varanasi,creditcard
+116,18-01-2015 07:17:22,1001,games,NFS most wanted,20,1,radhakunj,vrindavan,debitcard
+117,16-02-2016 09:15:23,1001,cosmetics,Nivea body lotion,30,5,udhampur,JK,creditcard
+118,20-01-2015 10:16:25,1004,apparels,skirt,100,4,chandigarh,CHD,debitcard
+119,26-02-2016 16:14:28,1003,electronics,pendrive,55,3,yamuna nagar,haryana,creditcard
+120,22-01-2015 14:11:25,1005,games,counterstrike,8,4,amritsar,punjab,debitcard
+121,25-02-2016 16:15:27,1003,book,professional hadoop,5,8,srinagar,JK,creditcard
+122,28-01-2015 15:13:22,1002,cosmetics,garnier facewash,80,6,kavinagar,ghaziabad,debitcard
+123,16-02-2016 23:15:23,1003,electronics,smartphone,50,5,srinagar,JK,creditcard
+124,23-01-2015 22:12:21,1005,apparels,T-shirtgames,80,4,tirumala,trupati,debitcard
+125,20-01-2015 10:16:25,1001,apparels,skirt,100,4,chandigarh,CHD,debitcard
+126,26-02-2016 16:14:28,1001,electronics,pendrive,55,3,yamuna nagar,haryana,creditcard
+127,22-01-2015 14:11:25,1001,games,counterstrike,8,4,amritsar,punjab,debitcard
+128,25-02-2016 16:15:27,1003,book,professional hadoop,5,8,srinagar,JK,creditcard
+129,28-01-2015 15:13:22,1002,cosmetics,garnier facewash,80,6,kavinagar,ghaziabad,debitcard
+130,16-02-2016 23:15:23,1004,electronics,smartphone,50,5,srinagar,JK,creditcard
+131,23-01-2015 22:12:21,1005,apparels,T-shirtgames,80,4,tirumala,trupati,debitcard
+132,23-01-2017 22:12:21,1001,apparels,T-shirtgames,800,4,tirumala,trupati,debitcard

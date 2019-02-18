@@ -1,0 +1,5 @@
+1001,suman,singh,28,coder
+1002,rahul,diman,23,progrmmer
+1003,smita,trivedi,30,sr.programmer
+1004,sunita,aggarwal,27,coder
+1005,rohan,goyal,33,manager
