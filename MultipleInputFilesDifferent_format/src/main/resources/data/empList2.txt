@@ -1,0 +1,5 @@
+101,Tejdeep,littlemastertej@gmail.com,M,4000
+102,Prasad,rppasupulati@gmail.com,M,5000
+103,Supraja,supraja123@gmail.com,F,9000
+104,RamaChandraiah,rama24@gmail.com,M,10000
+105,Subadramma,amma@24gmail.com,F,12000
