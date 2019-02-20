@@ -1,0 +1,3 @@
+name=suraj
+age=25
+exp=5 years
